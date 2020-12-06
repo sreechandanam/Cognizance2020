@@ -1,15 +1,15 @@
 ## Project Name: String Methods in Java
 This program prints the vaious string methods in Java with the examples
-
 ## Folder Structure
-* StringMethods3
-  * .settings
-  * bin
-    * StringMethold.class
-  * src
-    * StringMethod.java
-  * .classpath
-  * .project
+* Task3
+  * StringMethods3
+    * .settings
+    * bin
+      * StringMethold.class
+    * src
+      * StringMethod.java
+    * .classpath
+    * .project  
 ## How to execute the program
 From any java editor (ex: Eclipse), open the program StringMethod.java and click on run button.
 

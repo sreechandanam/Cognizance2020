@@ -30,7 +30,7 @@ public class StringMethod {
 		System.out.println("Trim the leading and trailing spaces: " + str5.trim());
 		System.out.println("ReplaceExample: " + Chandu.replace('e', 'a'));
 		System.out.println("SubstringExample 1: " + str.substring(5));
-		System.out.println("Substring Example 2: " + str.substring(5, 10));
+		System.out.println("SubstringExample 2: " + str.substring(5, 10));
 		
 
 	}

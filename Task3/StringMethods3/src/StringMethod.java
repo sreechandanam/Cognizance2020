@@ -27,7 +27,7 @@ public class StringMethod {
 		System.out.println("Index of 'g' is: " + str.indexOf('g'));
 		System.out.println("Check if string is empty 1: " + str.isEmpty());
 		System.out.println("Check if string is empty 2: " + str4.isEmpty());
-		System.out.println("Trim the leading and trailingspaces: " + str5.trim());
+		System.out.println("Trim the leading andtrailingspaces: " + str5.trim());
 		System.out.println("ReplaceExample: " + Chandu.replace('e', 'a'));
 		System.out.println("SubstringExample 1: " + str.substring(5));
 		System.out.println("SubstringExample 2: " + str.substring(5, 10));

@@ -1,0 +1,14 @@
+BEGIN
+READ num
+INITALIZE sum=0,temp=num
+WHILE temp!=0 DO
+r=temp%10
+sum=sum+r*r*r
+temp=temp/10
+END WHILE
+IF sum=num 
+      DISPLAY "num is amgstrong number"
+ELSE
+      DISPLAY "num is not an amgstrong number"
+END IF 
+END

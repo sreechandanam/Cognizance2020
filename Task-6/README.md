@@ -1,4 +1,4 @@
-<h3 class="code-line" data-line-start=0 data-line-end=1 ><a id="Psudoode_Armstrong_number_0"></a>Psudoode Armstrong number</h3>
+<h3 class="code-line" data-line-start=0 data-line-end=1 ><a id="Pseudocode_Armstrong_number_0"></a>Psudoode Armstrong number</h3>
 <pre><code>BEGIN
     READ num
     INITALIZE sum=0,temp=num,r

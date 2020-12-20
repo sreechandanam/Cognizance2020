@@ -7,7 +7,7 @@
             sum=sum+r*r*r
             temp=temp/10
     END WHILE
-    IF sum=num 
+    IF sum==num 
           DISPLAY &quot;num is amgstrong number&quot;
     ELSE
           DISPLAY &quot;num is not an amgstrong number&quot;
